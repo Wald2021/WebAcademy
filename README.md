@@ -1,6 +1,6 @@
 # Пилипчук Владимир Анатольевич
 
-![My Image](https://github.com/Wald2021/WebAcademy001.jpg)
+![My Image](https://github.com/Wald2021/WebAcademy/blob/main/001.jpg)
 
 ## Дата рождения: 10.03.1976
 
